@@ -21,8 +21,8 @@ This is a simple Snake game built using Java Swing. The game dynamically adjusts
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone <https://github.com/RanganathGowdaS/SnakeGame.git>
-   cd <SnakeGame>
+   git clone https://github.com/RanganathGowdaS/SnakeGame.git
+   cd SnakeGame
    ```
 2. Compile and run the game:
    ```sh
