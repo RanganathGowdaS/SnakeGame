@@ -1,6 +1,6 @@
 # Snake Game in Java
 
-This is a simple Snake game built using Java Swing. The game dynamically adjusts the board size based on the screen dimensions and allows the snake to wrap around the screen when it moves beyond the boundaries.
+This is a simple Snake game built using Java. The game dynamically adjusts the board size based on the screen dimensions and allows the snake to wrap around the screen when it moves beyond the boundaries.
 
 ## Features
 - **Dynamic Board Size:** The game board adjusts to the window size.
